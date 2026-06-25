@@ -1,0 +1,1 @@
+Map<std::slice::Iter<'_, {integer}>, {closure@src/main.rs:22:33: 22:36}>
